@@ -42,3 +42,10 @@ Wall & Ball was developed by Augustus Sroka using the Pygame library. It draws i
 
 **How to Play**
 To play Wall & Ball, run the `main.py` script with Python. Have fun, and enjoy the game!
+
+## 🛠 Libraries and Tools Used
+The project uses the following libraries and tools:
+
+- Pygame: A set of Python modules designed for writing video games, providing functionality for graphics, sounds, and input handling.
+- Drawable: A custom module representing drawable objects. In this case, it's a base class for graphical components in a Pygame-based application.
+If there are additional libraries or tools referenced in other parts of the project, they should be added to this list as well.
