@@ -1,9 +1,8 @@
-
+  ![Vintage Labels](https://static.vecteezy.com/system/resources/thumbnails/018/887/506/small/shapes-vintage-labels-png.png)
 
 <div align="center">
   <h1>Wall Ball</h1>
   <p>By Rokawoo</p>
-  ![Vintage Labels](https://static.vecteezy.com/system/resources/thumbnails/018/887/506/small/shapes-vintage-labels-png.png)
 </div>
 
 **Game Overview**
