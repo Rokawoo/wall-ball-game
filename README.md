@@ -1,6 +1,5 @@
-  ![Vintage Labels](https://static.vecteezy.com/system/resources/thumbnails/018/887/506/small/shapes-vintage-labels-png.png)
-
 <div align="center">
+  <img src="https://static.vecteezy.com/system/resources/thumbnails/018/887/506/small/shapes-vintage-labels-png.png" alt="WallBall"/>
   <h1>Wall Ball</h1>
   <p>By Rokawoo</p>
 </div>
