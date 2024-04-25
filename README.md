@@ -1,6 +1,10 @@
-![Vintage Labels](https://static.vecteezy.com/system/resources/thumbnails/018/887/506/small/shapes-vintage-labels-png.png)
 
-# Wall & Ball
+
+<div align="center">
+  <h1>Wall Ball</h1>
+  <p>By Rokawoo</p>
+  ![Vintage Labels](https://static.vecteezy.com/system/resources/thumbnails/018/887/506/small/shapes-vintage-labels-png.png)
+</div>
 
 **Game Overview**
 Wall & Ball is a classic arcade-style game where players control a paddle to bounce a ball around a room while protecting their boundaries. The goal is to achieve 20 bounces to win and aim for as many additional bounces as possible before losing all health. Built with Python's Pygame library, Wall & Ball is fast-paced, challenging, and fun for players of all skill levels.
