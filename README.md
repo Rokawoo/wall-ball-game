@@ -7,6 +7,10 @@
 **Game Overview**
 Wall & Ball is a classic arcade-style game where players control a paddle to bounce a ball around a room while protecting their boundaries. The goal is to achieve 20 bounces to win and aim for as many additional bounces as possible before losing all health. Built with Python's Pygame library, Wall & Ball is fast-paced, challenging, and fun for players of all skill levels.
 
+**Demo**
+
+[Demo](https://github.com/Rokawoo/wall-ball-game/assets/129356996/b4d2e00a-036a-444b-bbc4-1d7206d848a8)
+
 **Gameplay**
 - Start the game by pressing the **SPACE** key.
 - Move the paddle horizontally using the **mouse**.
