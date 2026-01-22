@@ -191,7 +191,7 @@ if __name__ == "__main__":
                 trail(ball, trailBall2, 1)
                 ball_color_randomizer()
             
-            if numHits == 20:
+            if numHits == 30:
                 win = True
                 paused = True
                 
