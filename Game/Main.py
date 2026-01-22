@@ -112,7 +112,7 @@ async def main():
     start_msg = Text("Press SPACE to Start", 280, 320)
     pause_msg = Text("Press SPACE to Continue", 245, 300)
     restart_msg = Text("Press SPACE to Restart", 265, 320)
-    instr_msg = Text("Get 20!!", 350, 280)
+    instr_msg = Text("Get 30!!", 350, 280)
     win_msg = Text("You Win!", 350, 280)
     lose_msg = Text("You Lose", 350, 280)
     
